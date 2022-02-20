@@ -1,0 +1,23 @@
+.Ambiente{
+    
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+.Ambiente h1{
+    font-size: 40px;
+
+}
+.Ambiente p{
+    font-size:30px ;
+}
+.Ambiente button{
+    background-color: orange;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+
+}
+.Ambiente div{
+    box-shadow: 5px 5px 5px black;
+}

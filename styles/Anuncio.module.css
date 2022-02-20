@@ -1,0 +1,20 @@
+.anuncio{
+   
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+}
+.anuncio h1{
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+.anuncio button{
+    background-color: orange;
+    width: 100px;
+    font-size: 20px;
+
+}
+.anuncio Image{
+
+}

@@ -1,0 +1,20 @@
+.Produtos{
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+.Produtos h1{
+    color: yellow;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px black;
+
+}
+.Produtos div{
+    margin-bottom: 25px;
+    margin-right: 0px;
+}
+.Produtos button{
+    background-color: orange;
+    width: 100px;
+    font-size: 20px;
+}
