@@ -12,6 +12,8 @@ export default function Anuncio(){
                <h1> ANUNCIE AQUI!!!
             </h1>
             <Image src='/lencois.jpg' width={600} height={350}></Image>
+            <Image src='/lencoi1.jpg' width={600} height={350}></Image>
+            <Image src='/lencois2.jpg' width={600} height={350}></Image>
             <p> Visite nossas riquezas naturais contribua com o turismo !!</p>
             <br></br>
 

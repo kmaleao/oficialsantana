@@ -15,7 +15,7 @@ export default function Navbar(){
             <Link href='/Anuncio'><button>Anuncio</button></Link>
         </div>
 
-          <h1>🌎Oficial-santana🌎 </h1>
+          <h1>🌎Oficial-santana </h1>
           <p>Tudo que voce prescisa saber na hora certa!!</p>
     </div>
     )
