@@ -13,7 +13,9 @@ export default function Navbar(){
             <Link href='/Produtos'><button>Produtos</button></Link>
     
             <Link href='/Anuncio'><button>Anuncio</button></Link>
+            <Link href='api/tempo'><button>tempo</button></Link>
         </div>
+        
 
           <h1>🌎Oficial-santana </h1>
           <p>Tudo que voce prescisa saber na hora certa!!</p>
